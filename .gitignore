@@ -1,0 +1,4 @@
+# Oh My Posh temporary/init/cache artifacts
+init.*.ps1
+omp.cache
+pwsh.*.omp.cache
